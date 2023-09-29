@@ -1,0 +1,21 @@
+leftnav:
+- identifier: ed2e0eeb-58ce-ca43-6e63-5b1755fe3c95
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a1a94884-c6e7-1999-7120-f34fea2aa375
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 3492dd60-b705-4081-90bd-0ff4472c4b44
+  name: Reading and Listening
+  pageRef: /pages/reading-and-listening
+  weight: 30
+- identifier: f4f7a55b-4f66-c7b5-3e5c-1ef0ca65dcea
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 0083b1a0-9f76-a18a-6e1b-a60cd2ca1cfd
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 50

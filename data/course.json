@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ]
+  ],
+  "legacy_uid": "24b9089a-5a40-eb09-4dda-439addef6c85",
+  "instructors": {
+    "content": [
+      "c20bc540-62dc-a600-b061-045e7dde40e9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a57dec71-093e-5b24-33d7-f4fd060d667e",
+    "website": "21m-295-american-popular-music-fall-2014"
+  },
+  "course_title": "American Popular Music",
+  "course_description": "This course surveys the development of popular music in the United States and in a cross-cultural milieu relative to the history and sociology of the last two hundred years. It examines the ethnic mixture that characterizes modern music, how it reflects many rich traditions and styles, and provides a background for understanding the musical vocabulary of current popular music styles.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.295",
+  "course_image_thumbnail": {
+    "content": "a54a6d94-1de8-a6ca-69b6-117106a410f5",
+    "website": "21m-295-american-popular-music-fall-2014"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "9b8b7415-eea3-4352-af23-87370a02a7c3",
+  "site_short_id": "21m.295-fall-2014",
+  "title": "Course Metadata"
+}
